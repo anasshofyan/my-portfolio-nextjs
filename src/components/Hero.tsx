@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
           me to bigger goals.
         </p>
         <a
-          href="mailto:anasshofyanmf@gmail.com?subject=I am interested in your skills"
+          href="mailto:anasshofyandev@gmail.com?subject=I am interested in your skills"
           className="bg-ansomarfa-yellow text-ansomarfa-dark text-base px-4 py-3 rounded-md mt-6 hover:bg-ansomarfa-dark hover:text-ansomarfa-light mr-4"
         >
           Hire Me

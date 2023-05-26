@@ -11,10 +11,10 @@ const Contact: React.FC = () => {
           Jakarta, ID
         </span>
         <a
-          href="mailto:anasshofyanmf@gmail.com?subject=I am interested in your skills"
+          href="mailto:anasshofyandev@gmail.com?subject=I am interested in your skills"
           className="text-ansomarfa-dark text-3xl font-bold block mt-4"
         >
-          anasshofyanmf@gmail.com
+          anasshofyandev@gmail.com
         </a>
       </div>
       <div className="flex justify-center mt-10">
