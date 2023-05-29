@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
       <div className="sm:w-3/6">
         <img
           className="w-full object-cover lg:w-full lg:h-full"
-          src="/images/hero.png"
+          src="/images/hero.svg"
           width="800"
           alt="Hero Ansomarfa"
         />
