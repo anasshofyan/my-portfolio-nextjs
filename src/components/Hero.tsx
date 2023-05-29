@@ -2,7 +2,7 @@ import React from "react";
 
 const Hero: React.FC = () => {
   return (
-    <section id="home" className="flex mt-15 items-center">
+    <section id="home" className="flex mt-15 items-center h-screen">
       <div className="w-6/6 sm:text-left sm:w-3/6 p-2">
         <p className="text-7xl font-bold">
           <span className="text-ansomarfa-yellow">Anas Shofyan</span> <br />
@@ -31,7 +31,7 @@ const Hero: React.FC = () => {
       </div>
       <div className="sm:w-3/6">
         <img
-          className="w-full object-cover lg:w-full lg:h-full"
+          className="w-full object-cover lg:w-full lg:h-screen"
           src="/images/hero.svg"
           width="800"
           alt="Hero Ansomarfa"

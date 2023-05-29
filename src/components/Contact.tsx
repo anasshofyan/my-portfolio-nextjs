@@ -2,7 +2,7 @@ import React from "react";
 
 const Contact: React.FC = () => {
   return (
-    <section id="contact" className="mt-60 pb-40">
+    <section id="contact" className="mt-60 h-screen">
       <div className="text-center">
         <span className="text-ansomarfa-dark text-2xl font-medium block">
           Stay Connected

@@ -1,4 +1,4 @@
-import "./globals.css";
+import "../../styles/globals.css";
 export const metadata = {
   title: "Anas Shofyan Martunis Fateh - Frontend Developer | UI/UX Designer",
   description:

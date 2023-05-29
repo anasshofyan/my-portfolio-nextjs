@@ -2,7 +2,7 @@ import React from "react";
 
 const Portfolio: React.FC = () => {
   return (
-    <section id="portfolio">
+    <section id="portfolio h-screen">
       <div className="flex mt-24 items-center justify-center">
         <p className="text-ansomarfa-dark text-3xl font-semibold">Portfolio</p>
       </div>
