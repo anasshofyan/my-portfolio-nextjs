@@ -13,7 +13,18 @@ const Hero: React.FC = () => {
           research before making a project that can help many users later.
           Passionate, hard work, creative, innovative, and like to learn new
           things, are traits that I think reflect as an individual that can lead
-          me to bigger goals.
+          me to bigger goals. 
+          <span
+          className="border-ansomarfa-yellow text-ansomarfa-yellow text-base hover:text-ansomarfa-dark"
+          
+          >
+   <a
+          href="https://drive.google.com/drive/folders/1-ucuQNaCCyWP2PQ0B_3D_64k7PsrCqfj?usp=sharing"
+          target="_blank"
+        >
+          👉🏻 See more portfolio projects
+        </a>
+          </span>
         </p>
         <a
           href="mailto:anasxcode.dev@gmail.com?subject=I am interested in your skills"
