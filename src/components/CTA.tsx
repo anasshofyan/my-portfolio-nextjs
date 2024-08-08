@@ -13,7 +13,7 @@ const CTA: React.FC = () => {
       </div>
       <div className="ml-auto">
         <a
-          href="mailto:anasshofyandev@gmail.com?subject=I am interested in your skills"
+          href="mailto:anasxcode.dev@gmail.com?subject=I am interested in your skills"
           className="bg-ansomarfa-dark text-ansomarfa-light text-base px-4 py-2 rounded-md mt-6 hover:bg-ansomarfa-yellow hover:text-ansomarfa-dark"
         >
           Email Me

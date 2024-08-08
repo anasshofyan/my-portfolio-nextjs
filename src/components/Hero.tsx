@@ -16,13 +16,13 @@ const Hero: React.FC = () => {
           me to bigger goals.
         </p>
         <a
-          href="mailto:anasshofyandev@gmail.com?subject=I am interested in your skills"
+          href="mailto:anasxcode.dev@gmail.com?subject=I am interested in your skills"
           className="bg-ansomarfa-yellow text-ansomarfa-dark text-base px-4 py-3 rounded-md mt-6 hover:bg-ansomarfa-dark hover:text-ansomarfa-light mr-4"
         >
           Hire Me
         </a>
         <a
-          href="https://drive.google.com/drive/folders/1_FRfIdnGXixj6B9F09orNxl27ASnfCL7?usp=share_link"
+          href="https://drive.google.com/file/d/1j9-yg9vR7VS63roocbeRyXOlNJI46_KC/view?usp=drive_link"
           target="_blank"
           className=" border-solid border-2 border-ansomarfa-yellow text-ansomarfa-yellow text-base px-4 py-2.5 rounded-md mt-6 hover:bg-ansomarfa-yellow hover:text-ansomarfa-dark"
         >

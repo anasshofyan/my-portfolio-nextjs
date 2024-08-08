@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="flex items-center justify-center">
         <p className="text-base text-ansomarfa-dark">
           © 2019 - {currentDate.getFullYear()} Anas Shofyan Martunis Fateh • All
-          rights reserved • ❤️ from Jakarta, ID
+          rights reserved • ❤️ from Kota Soto 🥘, Lamongan, ID
         </p>
       </div>
     </footer>

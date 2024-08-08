@@ -8,13 +8,13 @@ const Contact: React.FC = () => {
           Stay Connected
         </span>
         <span className="text-ansomarfa-dark text-lg font-normal block mt-4">
-          Jakarta, ID
+          Kota Soto 🥘 Lamongan, ID
         </span>
         <a
           href="mailto:anasshofyandev@gmail.com?subject=I am interested in your skills"
           className="text-ansomarfa-dark text-3xl font-bold block mt-4"
         >
-          anasshofyandev@gmail.com
+          anasxcode.dev@gmail.com
         </a>
       </div>
       <div className="flex justify-center mt-10">
@@ -53,7 +53,7 @@ const Contact: React.FC = () => {
             />
           </a>
           <a
-            href="https://www.instagram.com/anasshofyan"
+            href="https://www.instagram.com/anasxcode"
             target="_blank"
             className="filter-grayscale hover:filter-none"
           >
